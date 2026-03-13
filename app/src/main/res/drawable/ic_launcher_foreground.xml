@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+  <!-- Background -->
+  <path android:fillColor="#0A0A12"
+    android:pathData="M0,0 L108,0 L108,108 L0,108 Z"/>
+
+  <!-- Glow circle -->
+  <path android:fillColor="#FF4500" android:fillAlpha="0.08"
+    android:pathData="M54,24 A30,30 0 1 1 53.99,24 Z"/>
+
+  <!-- Left arrow -->
+  <path android:fillColor="#FF5500"
+    android:pathData="M14,54 L22,48 L22,51 L28,51 L28,57 L22,57 L22,60 Z"/>
+
+  <!-- Right arrow -->
+  <path android:fillColor="#FF5500"
+    android:pathData="M94,54 L86,48 L86,51 L80,51 L80,57 L86,57 L86,60 Z"/>
+
+  <!-- LN letters - L -->
+  <path android:fillColor="#FFFFFF"
+    android:pathData="M34,38 L39,38 L39,58 L48,58 L48,63 L34,63 Z"/>
+
+  <!-- LN letters - N -->
+  <path android:fillColor="#FFFFFF"
+    android:pathData="M51,38 L56,38 L63,52 L63,38 L68,38 L68,63 L63,63 L56,49 L56,63 L51,63 Z"/>
+
+  <!-- STRETCH label -->
+  <path android:fillColor="#FF5500" android:fillAlpha="0.9"
+    android:pathData="M30,72 L78,72 L78,74 L30,74 Z"/>
+
+</vector>
